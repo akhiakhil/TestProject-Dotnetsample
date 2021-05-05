@@ -1,0 +1,2 @@
+# TestProject-Dotnetsample
+net Framework
